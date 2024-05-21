@@ -1,0 +1,14 @@
+{
+  "name": "cy-quete2",
+  "version": "1.0.0",
+  "description": "Quete numero 2",
+  "main": "index.js",
+  "scripts": {
+    "cy:open" : "cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.9.0"
+  }
+}
