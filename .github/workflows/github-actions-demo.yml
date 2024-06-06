@@ -24,4 +24,10 @@ jobs:
     - name: Install Cypress
       run: npm install cypress --save-dev
 
+      #Runs Cypress
+    - name: Run Cypress
+      run: np cy:open
+
+
+
 
